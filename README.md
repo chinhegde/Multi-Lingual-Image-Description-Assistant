@@ -8,6 +8,5 @@ The Multilingual Image Description Assistant is a web application that takes an 
 
 Allows users to upload images, choose target languages, and customize the voice and speed of the generated speech.
 
-Configuration
+## Configuration
 - Replace 'YOUR_API_KEY' with your actual OpenAI GPT-3 API key in the translate_text function.
-- Customize language settings and models in the text_to_speech function based on your preferences.
